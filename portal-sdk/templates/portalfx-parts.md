@@ -16,7 +16,7 @@ The following sections covers the following topics.
 
 ### When to, and when not to build parts
 
-The Ibiza teaam has changed it's guidance on how to expose parts based on user feedback.  The team has also built new features to support the user feedback.   
+The Ibiza team has changed its guidance on how to expose parts based on user feedback.  The team has also built new features to support the user feedback.   
 
 Ibiza used to be full of blades that contained customizable parts (a.k.a. tiles) that served as the main way for users to navigate the UI. 
 UI built that way was difficult to navigate, caused excessive navigation, caused excessive horizontal scrolling, and had a lot of performance overheard.
